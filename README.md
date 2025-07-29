@@ -1,5 +1,7 @@
 # AtliQ Hardware
 
+Link (https://www.linkedin.com/feed/update/urn:li:activity:7356010884709699586/)
+
 Atliq Hardware : A financial and sales analysis
 Challenge
 Provide Insights to Management in Consumer Goods Domain
