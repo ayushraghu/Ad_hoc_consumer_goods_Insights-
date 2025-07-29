@@ -18,3 +18,7 @@ Need to run a SQL query to answer these requests.
 
 # Glimpse of Presentation :
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/be72f265-f9ee-46f9-a8b9-ba629ee4c6c9" />
+
+
+
